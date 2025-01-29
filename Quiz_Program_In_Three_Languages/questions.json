@@ -1,0 +1,99 @@
+[
+    {
+        "question": "Difference between interpreted and compiled languages?",
+        "choices": [
+            "Faster execution",
+            "Translated into machine code before execution",
+            "Need a compiler",
+            "Suitable for web development"
+        ],
+        "correctAnswer": "Translated into machine code before execution",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Significance of garbage collection?",
+        "choices": [
+            "Irrelevant in manual memory management",
+            "Automatically reclaims unused memory",
+            "Removes comments and whitespace",
+            "Only for low-level languages like C++",
+            "Enhances software performance and reliability",
+            "Facilitates efficient memory management in high-level languages"
+        ],
+        "correctAnswer": "Automatically reclaims unused memory",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Differences between static and dynamic typing?",
+        "choices": [
+            "Requires explicit variable declaration",
+            "Enforces variable types at compile time",
+            "Catches type errors at runtime",
+            "Same concept in programming"
+        ],
+        "correctAnswer": "Enforces variable types at compile time",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Concept of closures and their use?",
+        "choices": [
+            "Closes a program after execution",
+            "Blocks of code executed multiple times",
+            "Functions capturing variables from lexical scope",
+            "Only applicable in OOP languages",
+            "Encapsulates and retains access to variables even after their containing function has finished execution"
+        ],
+        "correctAnswer": "Functions capturing variables from lexical scope",
+        "difficulty": "hard"
+    },
+    {
+        "question": "Purpose of design patterns in software development?",
+        "choices": [
+            "Relevant only in small projects",
+            "Provides reusable solutions to common problems",
+            "Applicable in functional programming only",
+            "Tools exclusively for architects"
+        ],
+        "correctAnswer": "Provides reusable solutions to common problems",
+        "difficulty": "hard"
+    },
+    {
+        "question": "True or False: Design patterns are only relevant in small projects.",
+        "choices": [
+            "true",
+            "false"
+        ],
+        "correctAnswer": "false",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Fill in the blank: Design patterns provide ____________ solutions to common problems in software development.",
+        "choices": [],
+        "correctAnswer": "reusable",
+        "difficulty": "hard"
+    },
+    {
+        "question": "True or False: Encapsulation is a fundamental principle in object-oriented programming.",
+        "choices": [
+            "true",
+            "false"
+        ],
+        "correctAnswer": "true",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Fill in the blank: In the SOLID principles, the 'I' in SOLID stands for Interface ____________.",
+        "choices": [],
+        "correctAnswer": "Segregation",
+        "difficulty": "hard"
+    },
+    {
+        "question": "True or False: Polymorphism allows objects of different types to be treated as objects of a common type.",
+        "choices": [
+            "true",
+            "false"
+        ],
+        "correctAnswer": "true",
+        "difficulty": "easy"
+    }
+]
